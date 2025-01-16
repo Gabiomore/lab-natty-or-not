@@ -16,6 +16,5 @@ O e-book oferece uma abordagem dinâmica e visualmente atraente, ilustrando o po
 
 [LINK PARA O E-BOOK AQUI](https://github.com/user-attachments/files/18432632/Ebook.pdf)
 
-
 ## 💭 Reflexão
 Este projeto reafirma como as IAs Generativas podem ser poderosas ferramentas de inovação e criatividade, acessíveis a todos que desejam explorar seu potencial.
