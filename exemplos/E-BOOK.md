@@ -1,4 +1,4 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# O Impacto da Tecnologia no Mundo Atual  🌌
 
 ## 📒 Descrição
 Este e-book de 14 páginas examina o impacto das IAs Generativas no nosso cotidiano, destacando como essas tecnologias estão transformando diversas áreas e moldando o futuro.
