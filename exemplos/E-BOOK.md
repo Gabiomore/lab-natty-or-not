@@ -15,6 +15,8 @@ Utilizei o ChatGPT para revisar e consolidar minha pesquisa sobre IAs Generativa
 O e-book oferece uma abordagem dinâmica e visualmente atraente, ilustrando o potencial revolucionário da IA Generativa na educação, comunicação e outros campos.
 
 [LINK PARA O E-BOOK AQUI]()
+[Texto do Link](file:///C:/Users/gabri/Downloads/Ebook.pdf)
+
 
 ## 💭 Reflexão
 Este projeto reafirma como as IAs Generativas podem ser poderosas ferramentas de inovação e criatividade, acessíveis a todos que desejam explorar seu potencial.
